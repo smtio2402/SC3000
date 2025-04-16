@@ -1,4 +1,4 @@
-# 24S2 SC3000/CZ3005 Assignment 1
+# 24S2 SC3000/CZ3005 Assignment 2
 ---
 ### Team Members
 - Toh Jun Sheng
